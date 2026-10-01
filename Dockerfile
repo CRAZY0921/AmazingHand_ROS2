@@ -37,6 +37,7 @@ RUN pip3 install --no-cache-dir \
     numpy \
     pyyaml \
     pyserial \
+    pygame \
     PyQt5 \
     PyQt6 \
     pyqtgraph \
